@@ -1,5 +1,5 @@
 {
-  "name": "@azu/npm-github-package-example",
+  "name": "@sullemanhossam/npm-github-package-example",
   "version": "3.2.0",
   "description": "npm registry to GitHub Package Registry example.",
   "keywords": [
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azu/npm-github-package-example.git"
+    "url": "https://github.com/sullemanhossam/npm-github-package-example.git"
   },
   "license": "MIT",
   "author": "azu",
