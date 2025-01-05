@@ -1,4 +1,4 @@
-# npm-github-package-example[test]
+# npm-github-package-example
 
 npm registry to GitHub Package Registry example.
 
